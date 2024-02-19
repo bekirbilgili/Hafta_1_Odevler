@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class KDV_Hesaplama {
     public static void main(String[] args) {
 
-        // Değişkenleri Tanımalayalım
+        // Değişkenleri Tanımalayalım,
 
         double tutar, kdvOrani, kdvMiktari, kdvliTutar;
         //kdvOranı08 = 0.08;
