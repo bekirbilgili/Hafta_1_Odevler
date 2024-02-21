@@ -7,6 +7,7 @@ public class SicakligaGoreEtkinlikOnerme {
 
         Scanner input = new Scanner (System.in);
         System.out.print("Hava sıcaklığını girin: ");
+        heat = input.nextInt();
 
         if (heat < 5) {
             System.out.print("Kayak Yapabilirsiniz.");
